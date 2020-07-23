@@ -286,26 +286,26 @@
                 <h4 class="subheading">CEO</h4>
               </div>
               <div class="timeline-body">
-                <p>Infsolution é uma empresa de desenvolvimento onde buscamos solucionar as demandas de nossos clientes nas áreas de web e móbile.</p>
+                <p>Infsolution é uma empresa de desenvolvimento onde buscamos solucionar as demandas de nossos clientes nas áreas de web e mobile.</p>
               </div>
             </div>
           </li>
-          <!--li>
+          <li>
             <div class="timeline-image">
-              <h4>Dec 2009 <br>
+              <h4>Mar 2016 <br>
                 - <br>
-                May 2011 </h4>
+                Mai 2017 </h4>
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
-                <h4>Creative Agency</h4>
-                <h4 class="subheading">UX Designer</h4>
+                <h4>FindFer</h4>
+                <h4 class="subheading">CEO</h4>
               </div>
               <div class="timeline-body">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
+                <p>A FindFer foi Startup criada a partir de uma ideia de marketplace para feirantes, um app onde o feirante pode oferecer seus produtos de forma online, a startup está temporariamente inativa.</p>
               </div>
             </div>
-          </li-->
+          </li>
         </ul>
       </div>
     </div>
@@ -333,7 +333,7 @@
                 <h4 class="subheading">Análise e Desenvolvimento de Sistemas</h4>
               </div>
               <div class="timeline-body">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
+                <p>Neste curso alcancei a qualificação para a análise e desenvolvimento de projetos em diversas áreas de tecnologia como web, móbile, IoT entre outras. Conceitos essenciais de engenharia de software, gerência de projetos,  qualidade do produto e satisfação do cliente.</p>
               </div>
             </div>
           </li>
@@ -341,7 +341,7 @@
             <div class="timeline-image">
               <h4>2013 <br>
                 - <br>
-                2019 </h4>
+                2016 </h4>
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
@@ -349,7 +349,7 @@
                 <h4 class="subheading">Bacharelado em administração de Empresas</h4>
               </div>
               <div class="timeline-body">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
+                <p>No curso de Administração de Empresas encontrei o meu eu empreendedor, descobri ferramentas de gestão e técnicas fundamentais para o controle do negócio e sua expansão.</p>
               </div>
             </div>
           </li>
@@ -365,7 +365,7 @@
                 <h4 class="subheading">Técnico em Informática</h4>
               </div>
               <div class="timeline-body">
-                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
+                <p class="text-muted">No curso técnico de informática tive a oportunidade de aprender a lidar com várias linguagens de programação, conhecer as tecnologias básicas para criação de produtos para o mercado de informática.</p>
               </div>
             </div>
           </li>
@@ -420,12 +420,12 @@
       </form>
       <div class="social">
         <ul>
-          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-          <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-          <li><a href="#"><i class="fa fa-github"></i></a></li>
-          <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-          <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+          <li><a href="https://www.facebook.com/people/Cicero-Leonardo-Silva/100002872967798"><i class="fa fa-facebook"></i></a></li>
+          <li><a href="https://twitter.com/Infsolution"><i class="fa fa-twitter"></i></a></li>
+          <!--li><a href="#"><i class="fa fa-dribbble"></i></a></li-->
+          <li><a href="https://github.com/infsolution/"><i class="fa fa-github"></i></a></li>
+          <li><a href="https://www.instagram.com/ciceroleonardo.silva/"><i class="fa fa-instagram"></i></a></li>
+          <li><a href="https://www.linkedin.com/in/cicero-leonardo-da-silva-77530511b/"><i class="fa fa-linkedin"></i></a></li>
         </ul>
       </div>
     </div>
